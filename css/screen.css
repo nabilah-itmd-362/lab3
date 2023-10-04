@@ -261,7 +261,8 @@ ol {
 }
 
 /* ===== BASE STYLES ===== */
-/*Media query for mobile device*/
+/*Second base style for media query*/
+
 @media screen and (max-width: 699px) and (min-width: 520px) {
   body{
     font-size: 1.125rem;
