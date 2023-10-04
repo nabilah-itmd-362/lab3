@@ -201,14 +201,10 @@ label {
   margin-right: 1rem;
 }
 
-/*Favor an open design with plenty of padding and white space.
-/*Adding whitespace*/
 form li {
   padding-bottom: 1.5rem;
 }
 
-/*Design a mobile-scale form that uses only shades of gray (no solid borders) for the input
-regions*/
 h1 {
   text-align: center;
   padding-bottom: 1rem;
@@ -217,7 +213,6 @@ h1 {
   font-weight: 400;
 }
 
-/*Add css elements for "sign up and learn 5 secrets to fight Diabetes!"*/
 p {
   text-align: center;
   padding-bottom: 1rem;
