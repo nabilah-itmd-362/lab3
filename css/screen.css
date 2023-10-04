@@ -260,6 +260,7 @@ ol {
   padding-top: 2.618rem;
 }
 
+/* ===== BASE STYLES ===== */
 /*Media query for mobile device*/
 @media screen and (max-width: 699px) and (min-width: 520px) {
   body{
